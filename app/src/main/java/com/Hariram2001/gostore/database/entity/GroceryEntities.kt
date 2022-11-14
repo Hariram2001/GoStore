@@ -1,4 +1,4 @@
-package com.noobshubham.gostore.database.entity
+package com.Hariram2001.gostore.database.entity
 
 import androidx.room.ColumnInfo
 import androidx.room.Entity
