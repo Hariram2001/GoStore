@@ -1,4 +1,4 @@
-package com.noobshubham.gostore.adapter
+package com.Hariram2001.gostore.adapter
 
 import android.content.Context
 import android.view.LayoutInflater
@@ -7,8 +7,8 @@ import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
-import com.noobshubham.gostore.R
-import com.noobshubham.gostore.database.entity.GroceryEntities
+import com.Hariram2001.gostore.R
+import com.Hariram2001.gostore.database.entity.GroceryEntities
 
 class GroceryAdapter(val context: Context,
     var list: List<GroceryEntities>,
