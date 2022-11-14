@@ -1,4 +1,4 @@
-package com.noobshubham.gostore.grocery
+package com.Hariram2001.gostore.grocery
 
 import android.annotation.SuppressLint
 import android.app.Dialog
@@ -12,12 +12,12 @@ import android.widget.Toast
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.noobshubham.gostore.R
-import com.noobshubham.gostore.adapter.GroceryAdapter
-import com.noobshubham.gostore.database.GroceryDatabase
-import com.noobshubham.gostore.database.GroceryRepository
-import com.noobshubham.gostore.database.entity.GroceryEntities
-import com.noobshubham.gostore.databinding.ActivityGroceryBinding
+import com.Hariram2001.gostore.R
+import com.Hariram2001.gostore.adapter.GroceryAdapter
+import com.Hariram2001.gostore.database.GroceryDatabase
+import com.Hariram2001.gostore.database.GroceryRepository
+import com.Hariram2001.gostore.database.entity.GroceryEntities
+import com.Hariram2001.gostore.databinding.ActivityGroceryBinding
 
 class GroceryActivity : AppCompatActivity(), GroceryAdapter.GroceryItemClickInterface {
 
