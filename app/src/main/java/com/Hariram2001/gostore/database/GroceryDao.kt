@@ -1,4 +1,4 @@
-package com.noobshubham.gostore.database
+package com.Hariram2001.gostore.database
 
 import androidx.lifecycle.LiveData
 import androidx.room.*
