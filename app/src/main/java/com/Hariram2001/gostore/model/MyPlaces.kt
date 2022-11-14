@@ -1,4 +1,4 @@
-package com.noobshubham.gostore.model
+package com.Hariram2001.gostore.model
 
 data class MyPlaces(
     var html_attributions: Array<String>? = null,
