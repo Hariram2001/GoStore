@@ -1,7 +1,7 @@
 GoStore: [Internship Program Project](https://github.com/smartinternz02/SPSGP-65269-Virtual-Internship---Android-Application-Development-Using-Kotlin)
 ==================================
 
-![](https://github.com/Hariram2001/GoStore/blob/master/preview/mockups/banner.png)
+![](https://github.com/Hariram2001/GoStore/blob/main/preview/mockups/banner.png)
 
 A mobile app is built where the user can search for his nearby locations based on his requirement. Whenever the user gives input of business type like a hotel, petrol pumps, hospitals, etc. using Place API and as a response we obtain the co-ordinates that are marked on the Google map.
 
@@ -14,9 +14,9 @@ Additional Feature
 Screenshot
 ------------
   
-![](https://github.com/Hariram2001/GoStore/blob/master/preview/mockups/registration.png)
-![](https://github.com/Hariram2001/GoStore/blob/master/preview/mockups/map_part.png)
-![](https://github.com/Hariram2001/GoStore/blob/master/preview/mockups/grocery%20list.png)
+![](https://github.com/Hariram2001/GoStore/blob/main/preview/mockups/registration.png)
+![](https://github.com/Hariram2001/GoStore/blob/main/preview/mockups/map_part.png)
+![](https://github.com/Hariram2001/GoStore/blob/main/preview/mockups/grocery%20list.png)
 
 
 Architecture
