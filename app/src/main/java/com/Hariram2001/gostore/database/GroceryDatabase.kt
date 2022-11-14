@@ -1,10 +1,10 @@
-package com.noobshubham.gostore.database
+package com.Hariram2001.gostore.database
 
 import android.content.Context
 import androidx.room.Database
 import androidx.room.Room
 import androidx.room.RoomDatabase
-import com.noobshubham.gostore.database.entity.GroceryEntities
+import com.Hariram2001.gostore.database.entity.GroceryEntities
 
 @Database(entities = [GroceryEntities::class], version = 1)
 abstract class GroceryDatabase : RoomDatabase() {
