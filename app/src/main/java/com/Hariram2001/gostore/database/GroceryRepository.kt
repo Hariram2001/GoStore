@@ -1,6 +1,6 @@
-package com.noobshubham.gostore.database
+package com.Hariram2001.gostore.database
 
-import com.noobshubham.gostore.database.entity.GroceryEntities
+import com.Hariram2001.gostore.database.entity.GroceryEntities
 
 class GroceryRepository(private val db: GroceryDatabase) {
     suspend fun insert(items: GroceryEntities) = db.getGroceryDao().insert(items)
